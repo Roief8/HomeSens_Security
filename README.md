@@ -5,7 +5,7 @@
 
  Android Studio (Java OOP) for app.
 
- Arduino UNO, Motion and Magnet Sensors for model.
+ Arduino UNO (C++), Motion and Magnet Sensors for model.
 
  Firebase Database for authentication and Real time database.
 
