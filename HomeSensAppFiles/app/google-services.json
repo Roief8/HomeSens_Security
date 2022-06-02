@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538216873456",
+    "firebase_url": "https://esp8266-c9c43-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-c9c43",
+    "storage_bucket": "esp8266-c9c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538216873456:android:239f3c84ba537d6ee1f135",
+        "android_client_info": {
+          "package_name": "com.example.homesens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538216873456-qknnp4r24k0ui70tm0u7vvaaciaocfei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBI7FHQiXfnWnqT0wQJG8_OYevN930_qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538216873456-qknnp4r24k0ui70tm0u7vvaaciaocfei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
