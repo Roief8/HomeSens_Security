@@ -1,14 +1,16 @@
 # HomeSens_Security
+ Smart Home Security System.
+ *** for more information see HomeSens ppt.
+ 
  Final School Project.
  
  Tools used in this project:
 
- Android Studio (Java OOP) for app.
+ User Frirendly Mobile app using Android Studio (Java OOP).
 
- Arduino UNO (C++), Motion and Magnet Sensors for model.
+ Arduino UNO (C), Motion and Magnet Sensors.
 
- Firebase Database for authentication and Real time database.
+  Google Firebase for NoSQL, authentication and Real Time database.
 
  Geo-Location and SMS services API'S.
  
- for more information see HomeSens ppt file.
