@@ -9,9 +9,9 @@ Providing Real-Time monitoring on your home space, Activate and deactivate the s
 
  <b>App : </b>User Frirendly Mobile app using Android Studio (Java OOP).
 
- <b>Micro Controller : </b>Arduino UNO (C), Motion and Magnet Sensors.
+ <b>Micro Controller : </b>Arduino UNO, Motion and Magnet Sensors.
 
- <b>Data Base : </b>Google Firebase for NoSQL, authentication and Real Time database.
+ <b>Data Base : </b>Google Firebase for NoSQL, Authentication and Real-Time database.
 
  <b>API's : </b> Geo-Location and SMS services.
  
