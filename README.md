@@ -16,15 +16,19 @@ Providing Real-Time monitoring on your home space, Activate and deactivate the s
  <b>API's : </b> Geo-Location and SMS services.
  
  <u><b>UI Screens:</b></u>
+ 
  <b>Sign in:</b>
  
 ![image](https://user-images.githubusercontent.com/105589810/178109267-b019024a-f449-4353-aa97-5981e89301ba.png)
+
  <b>Home page:</b>
  
  ![image](https://user-images.githubusercontent.com/105589810/178109260-764fccf3-d39e-411e-93f7-97a1ceafc84b.png)
+ 
 <b>Sensor page:</b>
 
 ![image](https://user-images.githubusercontent.com/105589810/178109279-9a5843ff-003e-4969-b740-3f8e723d0f4c.png)
+
 <b>Log page:</b>
 
 ![image](https://user-images.githubusercontent.com/105589810/178109281-19e467e4-e230-42c9-80f9-be5126c557d9.png)
